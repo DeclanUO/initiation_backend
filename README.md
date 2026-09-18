@@ -134,6 +134,6 @@ Once your analysis is complete:
 
 ## Have Fun
 
-There is no single correct analysis.
+There is no single correct analysis :)
 
 The objective is to take the simulated vehicle data and find something useful or interesting within it.
